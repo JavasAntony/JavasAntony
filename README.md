@@ -1,6 +1,6 @@
 # Hi there, I'm Javas Antony 👋
 
-![Profile Banner]([https://files.catbox.moe/pxjcb5.png])  
+![Profile Banner](https://files.catbox.moe/w7bcj3.png)  
 
 I'm a passionate programmer, tinkering with code, creating projects, and constantly learning new tech. I love building things that solve problems and make life easier.
 
@@ -18,11 +18,9 @@ I'm a passionate programmer, tinkering with code, creating projects, and constan
 
 ## 🛠️ Tech & Tools
 
-| Frontend | Backend | Database | Tools |
-|----------|---------|----------|-------|
-| HTML, CSS, JS, React, Next.js | Node.js, Express | MongoDB, PostgreSQL | Git, GitHub, VSCode, Figma |
-
----
+| Frontend               | Backend                  | Database              | Programming Languages | Tools & Platforms           |
+|------------------------|-------------------------|----------------------|---------------------|----------------------------|
+| HTML, CSS, JS, React, Next.js | Node.js, Express, PHP | MongoDB, PostgreSQL, MySQL | Python, PHP, JavaScript | Git, GitHub, VSCode, Figma, Docker, Postman |
 
 ## 📈 GitHub Stats
 
