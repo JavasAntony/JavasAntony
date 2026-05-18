@@ -1,39 +1,11 @@
-# Hi there, I'm Javas Antony 👋
+# Hi, I'm Javas 👋
 
-![Profile Banner](https://files.catbox.moe/w7bcj3.png)  
+📍 **Kebumen ↔ Jawa Tengah** | 🤖 **Solo Dev** | 🚀 **Try Code WIthout AI**
 
-I'm a passionate programmer, tinkering with code, creating projects, and constantly learning new tech. I love building things that solve problems and make life easier.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on **web & mobile apps**  
-- 🌱 Learning **Next.js, Node.js, and AI integrations**  
-- 💻 Strong focus on **full-stack development**  
-- 🎨 Enjoy creating clean, modern UI/UX designs  
-- ⚡ Fun fact: I code better with coffee ☕  
-
----
-
-## 🛠️ Tech & Tools
-
-| Frontend               | Backend                  | Database              | Programming Languages | Tools & Platforms           |
-|------------------------|-------------------------|----------------------|---------------------|----------------------------|
-| HTML, CSS, JS, React, Next.js | Node.js, Express, PHP | MongoDB, PostgreSQL, MySQL | Python, PHP, JavaScript | Git, GitHub, VSCode, Figma, Docker, Postman |
-
-## 📈 GitHub Stats
-
-![Javas Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavasAntony&show_icons=true&theme=radical)  
-
----
-
-## 💬 Connect with Me
-
-- [Tiktok](https://www.tiktok.com/javazcript.id)  
-- [Twitter](https://twitter.com/JavasAntony)  
-- [Portfolio](https://javasantony.dev)  
-
----
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
